@@ -164,3 +164,10 @@ class _MyHomePageState extends State<MyHomePage> {
 //             textStyleBody1.copyWith(fontWeight: FontWeight.bold,
 //             fontFamily: 'MochyPopPOne',
 //             fontSize: font_25))
+
+
+
+///  fonts:
+//     - family: MochyPopPOne
+//       fonts:
+//         - asset: assets/fonts/mochiy-pop-p-one-83-400-normal.ttf
