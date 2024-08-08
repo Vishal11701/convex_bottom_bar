@@ -155,3 +155,12 @@ class _MyHomePageState extends State<MyHomePage> {
 //                 controller.update();
 //               },
 //             ),
+//
+
+
+///          TextView(
+//           text: 'All Categories',
+//           textStyle:
+//             textStyleBody1.copyWith(fontWeight: FontWeight.bold,
+//             fontFamily: 'MochyPopPOne',
+//             fontSize: font_25))
