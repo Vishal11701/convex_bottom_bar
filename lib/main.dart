@@ -171,3 +171,25 @@ class _MyHomePageState extends State<MyHomePage> {
 //     - family: MochyPopPOne
 //       fonts:
 //         - asset: assets/fonts/mochiy-pop-p-one-83-400-normal.ttf
+
+
+//  _bodyWidget() {
+//     return ShowUpAnimation(
+//       delayStart: Duration(microseconds: 0),
+//       animationDuration: Duration(seconds: 3),
+//       curve: Curves.fastOutSlowIn,///fastOutSlowIn
+//       direction: Direction.horizontal,
+//       offset: 0.5,
+//       child: ListView.builder(
+//         itemCount: 10,
+//         shrinkWrap: true,
+//         itemBuilder: (context, index) {
+//           return  categoryWidget();
+//         },
+//       ),
+//     );
+//   }
+//  flutter_staggered_animations: ^1.1.1
+//   animated_list_item: ^1.0.0
+//   animation_list: ^3.0.0
+//   show_up_animation: ^2.0.0
